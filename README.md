@@ -27,3 +27,31 @@ An AI-powered customer support agent that adapts responses based on user persona
 - LangChain
 
 ## Project Structure
+# Persona Support Agent
+
+## Project Structure
+
+## Modules
+
+### User Interface Module
+- Built using Streamlit.
+- Accepts user queries.
+- Displays AI-generated responses.
+
+### Persona Management Module
+- Handles persona creation and customization.
+- Stores personality traits and preferences.
+
+### Conversation Memory Module
+- Maintains previous interactions.
+- Enables context-aware conversations.
+
+### Sentiment Analysis Module
+- Detects user emotions.
+- Adapts responses based on sentiment.
+
+### Response Generation Module
+- Generates personalized responses using LLMs.
+
+### Database Module
+- Stores user data and conversation history.
